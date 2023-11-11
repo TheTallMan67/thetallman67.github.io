@@ -1,13 +1,13 @@
 ### test links
 
-[Halloween](Halloween.md)
+[Halloween](poems/Halloween.md)
 
-[Halloween](halloween.md)
+[Halloween](poems/halloween.md)
 
-[The Hunt](The Hunt.md)
+[The Hunt](poems/The%20Hunt.md)
 
-[The-Hunt](The-Hunt.md)
+[The-Hunt](poems/The-Hunt.md)
 
-[the-hunt](the-hunt.md)
+[the-hunt](poems/the-hunt.md)
 
-[The=Hunt](TheHunt.md)
+[The-Hunt](poems/TheHunt.md)
