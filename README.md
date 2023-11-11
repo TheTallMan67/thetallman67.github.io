@@ -1,8 +1,8 @@
-### test links
+### test all links
 
 [Halloween](poems/Halloween.md)
 
-[Halloween](poems/halloween.md)
+[halloween](poems/halloween.md)
 
 [The Hunt](poems/The%20Hunt.md)
 
@@ -10,4 +10,4 @@
 
 [the-hunt](poems/the-hunt.md)
 
-[The-Hunt](poems/TheHunt.md)
+[TheHunt](poems/TheHunt.md)
